@@ -1,36 +1,26 @@
 # 快速开始
 
-本指南将帮助您快速启动和运行 API Grip。
+本指南将帮助您快速启动和使用 API Grip。
 
-## 前置要求
+## 创建账户
 
-- Node.js 18+
-- pnpm（推荐）或 npm
+1. 访问 [API Grip](https://api-grip.com) 并点击 **注册**
+2. 输入您的邮箱并创建密码
+3. 验证您的邮箱地址
 
-## 安装
+## 创建第一个项目
 
-### 克隆仓库
+1. 登录后，点击 **新建项目**
+2. 为项目命名
+3. 开始添加您的 API 接口
 
-```bash
-git clone https://github.com/API-Grip/api-grip-server.git
-git clone https://github.com/API-Grip/api-grip-web.git
-```
+## 邀请团队成员
 
-### 启动服务端
+API Grip 专为团队协作而生：
 
-```bash
-cd api-grip-server
-pnpm install
-pnpm dev
-```
-
-### 启动 Web 界面
-
-```bash
-cd api-grip-web
-pnpm install
-pnpm dev
-```
+1. 进入 **项目设置** > **团队**
+2. 点击 **邀请成员**
+3. 输入成员的邮箱地址
 
 ## 下一步
 

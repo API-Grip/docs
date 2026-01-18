@@ -2,35 +2,25 @@
 
 This guide will help you get up and running with API Grip.
 
-## Prerequisites
+## Create an Account
 
-- Node.js 18+
-- pnpm (recommended) or npm
+1. Visit [API Grip](https://api-grip.com) and click **Sign Up**
+2. Enter your email and create a password
+3. Verify your email address
 
-## Installation
+## Create Your First Project
 
-### Clone the repositories
+1. After logging in, click **New Project**
+2. Give your project a name
+3. Start adding your API endpoints
 
-```bash
-git clone https://github.com/API-Grip/api-grip-server.git
-git clone https://github.com/API-Grip/api-grip-web.git
-```
+## Invite Your Team
 
-### Start the server
+API Grip is built for collaboration:
 
-```bash
-cd api-grip-server
-pnpm install
-pnpm dev
-```
-
-### Start the web interface
-
-```bash
-cd api-grip-web
-pnpm install
-pnpm dev
-```
+1. Go to **Project Settings** > **Team**
+2. Click **Invite Member**
+3. Enter their email address
 
 ## What's Next?
 
