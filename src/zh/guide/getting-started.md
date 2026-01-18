@@ -4,7 +4,7 @@
 
 ## 创建账户
 
-1. 访问 [API Grip](https://api-grip.com) 并点击 **注册**
+1. 访问 [API Grip](https://dash.apigrip.com) 并点击 **注册**
 2. 输入您的邮箱并创建密码
 3. 验证您的邮箱地址
 

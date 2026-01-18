@@ -4,7 +4,7 @@ This guide will help you get up and running with API Grip.
 
 ## Create an Account
 
-1. Visit [API Grip](https://api-grip.com) and click **Sign Up**
+1. Visit [API Grip](https://dash.apigrip.com) and click **Sign Up**
 2. Enter your email and create a password
 3. Verify your email address
 
